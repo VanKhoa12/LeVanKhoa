@@ -15,3 +15,4 @@ if a == 0:
 else:
     x = -b / a
     print("Nghiem cua phuong trinh la:", x)
+    

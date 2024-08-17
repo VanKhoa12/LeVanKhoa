@@ -32,3 +32,4 @@ else:
         print("Phuong trinh co 2 nghiem phan biet.")
         print("x1 = ", float((-b + sqrt(delta)) / (2 * a)))
         print("x2 = ", float((-b - sqrt(delta)) / (2 * a)))
+        
